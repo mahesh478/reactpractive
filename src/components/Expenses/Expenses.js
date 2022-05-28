@@ -1,3 +1,4 @@
+import React from "react";
 import Expensitem from "./ExpensItem";
 import "./Expenses.css";
 function Expenses(props) {

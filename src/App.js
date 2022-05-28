@@ -1,4 +1,5 @@
 import "./App.css";
+import React from "react";
 import Expenses from "./components/Expenses/Expenses";
 import NewExpense from "./components/NewExpanse/NewExpense";
 

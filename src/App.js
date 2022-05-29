@@ -18,14 +18,14 @@ const DUMMY_EXPENSES = [
   {
     id: "e3",
     title: "Ttaps",
-    amount: 234.23,
+    amount: 2334.23,
     date: new Date(2020, 3, 26),
   },
   {
     id: "e4",
     title: "Blubs",
     amount: 234.23,
-    date: new Date(2020, 3, 26),
+    date: new Date(2020, 6, 26),
   },
 ];
 
